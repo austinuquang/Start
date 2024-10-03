@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DX95bkOlLoOyUp2+G9fbLmUp//9JdGhqhaeCnCjKgn5F61eGKns+tbxhJjMYNzm9+ixXu9wF/DawUiPX3FKbSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Strings\\Interpolation\\Interpolation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

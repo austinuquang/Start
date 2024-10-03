@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aYjQrV8zrVnKIzedkdMnYQNEJ8GYVCEpCqu0bFKgoetxnfZVXxB7XgAHcHhNC7ua4VHAA+NyTowlGKmLB7iAvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\austi\\OneDrive\\Documents\\Start\\NumbersDates\\ParseDates\\ParseDates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\austi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
