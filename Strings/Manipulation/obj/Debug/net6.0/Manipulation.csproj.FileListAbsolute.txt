@@ -12,3 +12,4 @@ C:\Users\austi\OneDrive\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\re
 C:\Users\austi\OneDrive\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.pdb
 C:\Users\austi\OneDrive\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.genruntimeconfig.cache
 C:\Users\austi\OneDrive\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\ref\Manipulation.dll
+C:\Users\austi\OneDrive\Documents\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.sourcelink.json

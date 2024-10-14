@@ -12,3 +12,4 @@ c:\Users\austi\OneDrive\Documents\Start\Regex\Finding\obj\Debug\net6.0\refint\Fi
 c:\Users\austi\OneDrive\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
 c:\Users\austi\OneDrive\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
 c:\Users\austi\OneDrive\Documents\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
+C:\Users\austi\OneDrive\Documents\Start\Regex\Finding\obj\Debug\net6.0\Finding.sourcelink.json

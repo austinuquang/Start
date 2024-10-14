@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj": {}
+    "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj": {}
   },
   "projects": {
-    "c:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj": {
+    "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj",
+        "projectUniqueName": "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj",
         "projectName": "Finding",
-        "projectPath": "c:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj",
+        "projectPath": "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\Finding.csproj",
         "packagesPath": "C:\\Users\\austi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\obj\\",
+        "outputPath": "C:\\Users\\austi\\OneDrive\\Documents\\Start\\Regex\\Finding\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

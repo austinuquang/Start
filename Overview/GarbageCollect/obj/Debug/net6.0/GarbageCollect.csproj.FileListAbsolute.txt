@@ -12,3 +12,4 @@ C:\Users\austi\OneDrive\Documents\Start\Overview\GarbageCollect\obj\Debug\net6.0
 C:\Users\austi\OneDrive\Documents\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
 C:\Users\austi\OneDrive\Documents\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
 C:\Users\austi\OneDrive\Documents\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll
+C:\Users\austi\OneDrive\Documents\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.sourcelink.json

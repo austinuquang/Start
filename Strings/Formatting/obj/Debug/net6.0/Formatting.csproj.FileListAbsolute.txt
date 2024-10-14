@@ -12,3 +12,4 @@ C:\Users\austi\OneDrive\Documents\Start\Strings\Formatting\obj\Debug\net6.0\refi
 C:\Users\austi\OneDrive\Documents\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
 C:\Users\austi\OneDrive\Documents\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
 C:\Users\austi\OneDrive\Documents\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll
+C:\Users\austi\OneDrive\Documents\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.sourcelink.json
